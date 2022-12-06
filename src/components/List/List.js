@@ -78,9 +78,6 @@ const List = () => {
         ))}
       </section>
       <ColumnForm action={addColumn} />
-
-
-
     </div>
   );
 };
